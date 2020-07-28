@@ -1,0 +1,9 @@
+c:\Projeto\Hoplon\Hoplon.Collections\bin\Debug\netstandard2.0\Hoplon.Collections.deps.json
+c:\Projeto\Hoplon\Hoplon.Collections\bin\Debug\netstandard2.0\Hoplon.Collections.dll
+c:\Projeto\Hoplon\Hoplon.Collections\bin\Debug\netstandard2.0\Hoplon.Collections.pdb
+c:\Projeto\Hoplon\Hoplon.Collections\obj\Debug\netstandard2.0\Hoplon.Collections.csprojAssemblyReference.cache
+c:\Projeto\Hoplon\Hoplon.Collections\obj\Debug\netstandard2.0\Hoplon.Collections.AssemblyInfoInputs.cache
+c:\Projeto\Hoplon\Hoplon.Collections\obj\Debug\netstandard2.0\Hoplon.Collections.AssemblyInfo.cs
+c:\Projeto\Hoplon\Hoplon.Collections\obj\Debug\netstandard2.0\Hoplon.Collections.csproj.CoreCompileInputs.cache
+c:\Projeto\Hoplon\Hoplon.Collections\obj\Debug\netstandard2.0\Hoplon.Collections.dll
+c:\Projeto\Hoplon\Hoplon.Collections\obj\Debug\netstandard2.0\Hoplon.Collections.pdb

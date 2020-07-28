@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5MQ+eQ23P3oAqcD63ygCHZh1Qagbj7BhoS/AXC1MkdEkTB/slhigym+gdzBItWz/kzyXJ8CuwNwXLlEZTwuDzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projeto\\Hoplon\\Hoplon.Collections\\Hoplon.Collections.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Cassio\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Cassio\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
